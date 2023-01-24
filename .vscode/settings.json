@@ -1,6 +1,6 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\Users\\Mason Wells\\Downloads\\JDA-4.3.0_338-withDependencies.jar"
+        "c:\\Users\\Mason Wells\\Desktop\\Misc\\VSCode\\dependencies\\JDA-4.3.0_338-withDependencies.jar"
     ]
 }
