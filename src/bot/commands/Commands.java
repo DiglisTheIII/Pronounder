@@ -18,6 +18,13 @@ import net.dv8tion.jda.api.exceptions.HierarchyException;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import net.dv8tion.jda.api.requests.RestAction;
 
+/*
+ *  I will not be commenting here that often, as it is mostly just expanding the switch statment.
+ *  I would hope that anyone looking through this repo has a basic understanding of Java and its fundamentals. 
+ *  If you want to learn how to code a Discord bot using JDA, add me on Discord at Diglis#9553, or 
+ *  email me at diglis.discordbotdevs@gmail.com 
+ */
+
 public class Commands extends ListenerAdapter implements BP_shr_inter {
 
     @Override
